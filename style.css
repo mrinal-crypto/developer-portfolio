@@ -54,3 +54,18 @@ h2{
     background-repeat: no-repeat;
     background-position: left;
 }
+#baby-exp-div{
+    border-left: 7px solid;
+    border-radius: 10px;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+#full-exp-div{
+    border-left: 7px solid;
+    border-radius: 10px;
+    border-image: linear-gradient(orange,violet);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
