@@ -31,3 +31,6 @@ section{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.section-para{
+    text-align: justify;
+}
